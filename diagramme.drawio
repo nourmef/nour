@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FgvImvcRu4sn3ergdx58-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="29" width="30" height="60" as="geometry" />
+          <mxGeometry x="-13" y="27" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FgvImvcRu4sn3ergdx58-3" value="Employé" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-91" y="177" width="30" height="60" as="geometry" />
+          <mxGeometry x="-17" y="182" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FgvImvcRu4sn3ergdx58-4" value="Gestion des employés" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="121" y="19" width="141" height="80" as="geometry" />
@@ -81,9 +81,9 @@
             <mxPoint x="406" y="53" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FgvImvcRu4sn3ergdx58-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.03;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="FgvImvcRu4sn3ergdx58-19">
+        <mxCell id="FgvImvcRu4sn3ergdx58-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.03;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="FgvImvcRu4sn3ergdx58-3" target="FgvImvcRu4sn3ergdx58-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-75" y="211" as="sourcePoint" />
+            <mxPoint x="-8" y="213" as="sourcePoint" />
             <mxPoint x="-25" y="161" as="targetPoint" />
           </mxGeometry>
         </mxCell>
